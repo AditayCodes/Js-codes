@@ -1,13 +1,12 @@
 // --- num + albha
 
 let score = "33ab"
-
 console.log(typeof(score));
 console.log(typeof(score));
 
 
 let valueInNumber = Number(score)
-console.log(typeof valueInNumber);
+console.log(typeof (valueInNumber));
 console.log(valueInNumber);
 
 
@@ -20,7 +19,7 @@ console.log(typeof(sc));
 
 
 let val = Number(sc)
-console.log(typeof val);
+console.log(typeof (val));
 console.log(val);
 
 //----- undefined
@@ -32,5 +31,18 @@ console.log(typeof(se));
 
 
 let valu = String(se)
-console.log(typeof valu);
+console.log(typeof (valu));
 console.log(valu);
+
+// -------------------  Operations ------------//
+
+let a = 3
+let negativea = -a
+console.log(negativea);
+
+console.log(+true); // -- o/p- 1 
+
+// console.log(true+); ---- erroe as it don;t support this type of conversion
+
+console.log(+"");       // --- output- 0
+
