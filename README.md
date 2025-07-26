@@ -1,4 +1,4 @@
-# Js-codes
+# JavaScript-codes
 
 A curated collection of JavaScript code snippets, examples, and mini-projects designed to help beginners and enthusiasts learn, practice, and master JavaScript.
 
@@ -28,18 +28,18 @@ This repository offers a wide array of JavaScript code samples, covering fundame
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/AditayCodes/Js-codes.git
+   git clone https://github.com/AditayCodes/JavaScript-codes.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd Js-codes
+   cd JavaScript-codes
    ```
 3. **Browse the folders and files to explore code snippets.**
 
 ## Folder Structure
 
 ```
-Js-codes/
+JavaScript-codes/
 ├── basic/
 │   └── ... (Fundamental JavaScript concepts)
 ├── advanced/
